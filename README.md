@@ -6,6 +6,7 @@ Junior Software Developer
 
 Dedicated student transitioning into the tech industry with 10 years of experience in healthcare administration. Eager to leverage strong organizational skills, work with an emphatic team, analytical, and problem-solving skills to contribute to engineering projects.
 
+*   :man_student: in school for Computer Science; specality in c++ 
 *   🌍  I'm based in San Francisco, CA
 *   ✉️  You can contact me at [jchairr142@gmail.com](mailto:jchairr142@gmal.com)
 *   🧠  I'm learning c# Skills
